@@ -1,0 +1,8 @@
+
+DIMENSION: 4
+
+EDGE_WEIGHT_SECTION
+0  23    17    31
+32    0  44    56
+77    76    0  55
+61    53    41    0
